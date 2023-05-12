@@ -10,3 +10,11 @@ TicTacToe::TicTacToe(std::string const& player1_name, std::string const& player2
 																						 player2{ player2_name }
 {
 }
+const std::string& TicTacToe::getPlayer1()
+{
+	return player1;
+}
+const std::string& TicTacToe::getPlayer2()
+{
+	return player2;
+}
