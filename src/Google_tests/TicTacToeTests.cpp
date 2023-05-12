@@ -21,4 +21,8 @@ TEST_F(TicTacToeTest, VerifyTokenIsPlaced)
 	ASSERT_EQ(board[1][0], 'X');
 }
 
-
+TEST_F(TicTacToeTest, CheckTokenIsSwapped)
+{
+	game.switchToken();
+	ASSERT_EQ(game.getToken(), 'O');
+}
