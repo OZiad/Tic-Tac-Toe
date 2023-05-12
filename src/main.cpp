@@ -1,7 +1,10 @@
 #include <iostream>
+#include "./srcTwo/TicTacToe.h"
+#include "./srcTwo/Gui.h"
 
 int main()
 {
-	std::cout << "Hello, World!" << std::endl;
-	return 0;
+	TicTacToe game;
+	Gui g{ game };
+	g.startGame();
 }

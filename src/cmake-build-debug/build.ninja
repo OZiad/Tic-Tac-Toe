@@ -61,6 +61,12 @@ build CMakeFiles/tic_tac_toe.dir/srcTwo/TicTacToe.cpp.o: CXX_COMPILER__tic_tac_t
   OBJECT_DIR = CMakeFiles/tic_tac_toe.dir
   OBJECT_FILE_DIR = CMakeFiles/tic_tac_toe.dir/srcTwo
 
+build CMakeFiles/tic_tac_toe.dir/srcTwo/Gui.cpp.o: CXX_COMPILER__tic_tac_toe_Debug /home/omar/repos/tic-tac-toe/src/srcTwo/Gui.cpp || cmake_object_order_depends_target_tic_tac_toe
+  DEP_FILE = CMakeFiles/tic_tac_toe.dir/srcTwo/Gui.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/tic_tac_toe.dir
+  OBJECT_FILE_DIR = CMakeFiles/tic_tac_toe.dir/srcTwo
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target tic_tac_toe
@@ -69,7 +75,7 @@ build CMakeFiles/tic_tac_toe.dir/srcTwo/TicTacToe.cpp.o: CXX_COMPILER__tic_tac_t
 #############################################
 # Link the executable tic_tac_toe
 
-build tic_tac_toe: CXX_EXECUTABLE_LINKER__tic_tac_toe_Debug CMakeFiles/tic_tac_toe.dir/main.cpp.o CMakeFiles/tic_tac_toe.dir/srcTwo/TicTacToe.cpp.o
+build tic_tac_toe: CXX_EXECUTABLE_LINKER__tic_tac_toe_Debug CMakeFiles/tic_tac_toe.dir/main.cpp.o CMakeFiles/tic_tac_toe.dir/srcTwo/TicTacToe.cpp.o CMakeFiles/tic_tac_toe.dir/srcTwo/Gui.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/tic_tac_toe.dir
   POST_BUILD = :
