@@ -1,0 +1,3 @@
+/home/omar/repos/tic-tac-toe/src/cmake-build-debug/CMakeFiles/tic_tac_toe.dir
+/home/omar/repos/tic-tac-toe/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/omar/repos/tic-tac-toe/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
