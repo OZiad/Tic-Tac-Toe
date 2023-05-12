@@ -1,0 +1,4 @@
+# ninja log v5
+0	13	1683928158494383312	CMakeFiles/Google_Tests_run.dir/home/omar/repos/tic-tac-toe/src/srcTwo/TicTacToe.o	48410fb3dd389a58
+0	1147	1683928159626391238	lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	e9d71827b700dea3
+0	4482	1683928162954414542	lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	fc5b2177f82d5cd9
