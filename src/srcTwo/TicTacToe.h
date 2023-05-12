@@ -20,7 +20,13 @@ class TicTacToe
  public:
 	TicTacToe(const std::string& player1_name, const std::string& player2_name);
 	TicTacToe();
-	const std::string& getPlayer1() ;
-	const std::string& getPlayer2() ;
+	const std::string& getPlayer1() const;
+	const std::string& getPlayer2() const;
+	bool isWinnerFound() const;
+	char getToken() const;
+	void switchToken();
+	bool placeToken(int position);
+	void checkWinner();
+	std::array<std::array<char, 3>, 3> getBoard();
 };
 #endif
