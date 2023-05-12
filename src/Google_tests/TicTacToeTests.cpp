@@ -4,9 +4,16 @@
 class TicTacToeTest : public ::testing::Test
 {
  protected:
+	TicTacToe game;
 	void SetUp() override
 	{
-		TicTacToe game{ "player1", "player2" };
+		game = TicTacToe({ "player1", "player2" });
 	}
 };
+TEST_F(TicTacToeTest, CheckPlayerNames)
+{
+	EXPECT_EQ(game.getPlayer1(), "player1");
+	EXPECT_EQ(game.getPlayer2(), "player2");
+}
+
 
