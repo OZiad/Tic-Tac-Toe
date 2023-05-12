@@ -2,3 +2,9 @@
 0	13	1683928158494383312	CMakeFiles/Google_Tests_run.dir/home/omar/repos/tic-tac-toe/src/srcTwo/TicTacToe.o	48410fb3dd389a58
 0	1147	1683928159626391238	lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	e9d71827b700dea3
 0	4482	1683928162954414542	lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	fc5b2177f82d5cd9
+1	66	1683928301311383359	lib/libgtest.a	a9f8e14e84764e3a
+1	934	1683928302183389465	CMakeFiles/Google_Tests_run.dir/TicTacToeTests.o	95078125bd68a8e
+1	6	1683928324551546094	lib/libgtest_main.a	cdb95643e307e3a4
+1	292	1683928324835548082	CMakeFiles/Google_Tests_run.dir/home/omar/repos/tic-tac-toe/src/srcTwo/TicTacToe.o	48410fb3dd389a58
+1	988	1683928325531552956	CMakeFiles/Google_Tests_run.dir/TicTacToeTests.o	95078125bd68a8e
+988	1141	1683928325683554021	Google_Tests_run	1d308d3da446800d

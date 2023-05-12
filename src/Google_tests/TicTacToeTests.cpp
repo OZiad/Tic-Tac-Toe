@@ -4,9 +4,9 @@
 class TicTacToeTest : public ::testing::Test
 {
  protected:
-	TicTacToe game{ "player1", "player2" };
 	void SetUp() override
 	{
+		TicTacToe game{ "player1", "player2" };
 	}
 };
 
