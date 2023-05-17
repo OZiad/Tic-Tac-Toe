@@ -2,4 +2,4 @@
 
 Simple TicTacToe game in C++ 
 
-![example](https://github.com/OZiad/tic-tac-toe/assets/104799539/8e1dc94d-d5d6-4c77-ae42-f5d624d26872)
+![example](https://github.com/OZiad/Tic-Tac-Toe/assets/104799539/a43c0497-4537-4ee2-94ea-47a14ddacf88)
