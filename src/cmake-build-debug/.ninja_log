@@ -1,7 +1,0 @@
-# ninja log v5
-438	504	1683927509433853938	tic_tac_toe	3a5815c6f2da967
-0	437	1683927509365853465	CMakeFiles/tic_tac_toe.dir/main.cpp.o	cf3ab4aa2636cd58
-1	258	1683929567788106893	CMakeFiles/tic_tac_toe.dir/main.cpp.o	cf3ab4aa2636cd58
-1	275	1683929567808107029	CMakeFiles/tic_tac_toe.dir/srcTwo/TicTacToe.cpp.o	564f27f4d4451c85
-1	283	1683929567816107083	CMakeFiles/tic_tac_toe.dir/srcTwo/Gui.cpp.o	468e98be51359280
-283	337	1683929567868107436	tic_tac_toe	826a85842d22b880
